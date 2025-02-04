@@ -18,4 +18,3 @@ Sou Caio, Técnico de Informática formado, com experiência em suporte técnico
 - **E-mail:** caio.gomes10x@gmail.com  
 - **LinkedIn:**
 (https://www.linkedin.com/in/caio-gomes-4717b929a)  
-- **Idade:** 18 ano
