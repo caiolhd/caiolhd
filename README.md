@@ -10,7 +10,7 @@ Sou Caio, Técnico de Informática formado, com experiência em suporte técnico
 - Desenvolvimento em **Java** e **Python** (aprendizado em andamento)  
 
 ## 🌐 Contato  
-- **Telefone:** (99) 99107-5667  
+- **Telefone:** (21) 99107-5667  
 - **E-mail:** caio.gomes10x@gmail.com  
--**LinkedIn:**(https://www.linkedin.com/in/caio-gomes-4717b929a)  
+- **LinkedIn:**(https://www.linkedin.com/in/caio-gomes-4717b929a)  
 - **Idade:** 18 anos
