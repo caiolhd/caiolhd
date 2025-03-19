@@ -18,4 +18,4 @@ Ciência da Computação - 1º período
 - **Telefone:** (21) 99107-5667  
 - **E-mail:** caio.gomes10x@gmail.com  
 - **LinkedIn:**
-(https://www.linkedin.com/in/caio-gomes-4717b929a)  
+(https://www.linkedin.com/in/caiogomes0)  
