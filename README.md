@@ -1,13 +1,14 @@
-# 👨‍💻 Caio Gomes  
+# 👨‍💻 Caio Gomes
 
-Técnico de Informática formado, com experiência em suporte técnico e desenvolvimento. Atualmente, estou aprendendo **Java** e **Python**.  
+Técnico de Informática, com experiência em suporte técnico.
+Ciência da Computação - 1º período
 
 ## 🛠️ Habilidades  
 - Suporte técnico: manutenção, formatação e configuração de PCs  
 - Instalação de softwares e configuração de redes  
 - Desenvolvimento Web: **HTML**, **CSS**, **JavaScript**  
 - Banco de Dados: **SQL**  
-- Desenvolvimento em **Java** e **Python** (aprendizado em andamento)  
+- Desenvolvimento em **Java** e
 
 ## 🌍 Idiomas  
 - Português: Nativo  
